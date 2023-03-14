@@ -1,0 +1,6 @@
+READ ME
+
+Format_Description.pdf should be the same as the .pdf output when you “compile” the NC2023_Paper_Template_Latex.tex file.  I suggest that you try compiling this first to see that you have everything necessary in your version of Latex to have it compile.     You should check that the bibtex part works, too, by renaming the .bbl file and using the bibtex compiler.  The references are in sample.bib.    That is how I created the .bbl file.   Check the .pdf output to make sure all the referencing is complete.   
+Once everything is compiling properly, now start on your paper.   
+
+Copy the NC2023_Paper_Template_Latex.tex to NC_2023_YYYY.tex, where YYYY is your abstract submission number, with zeros in front if the number is less than 4 digits, e.g., if your abstract submission number is 152, you filename should be NC_2023_0152.tex.   The file NC_2023_YYYY.tex is currently the same as the template .tex file.  I suggest you start editing that one to create your paper, leaving the template .tex file alone for reference. Note again that YYYY stands for your abstract submission reference number.  
